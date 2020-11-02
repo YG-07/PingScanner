@@ -6,11 +6,14 @@ PingScanner
 This is the windows python programming, expansion pack and site tools, the main functions are domain name resolution, IP information, network segment scanning, port scanning.  
   
 包含文件： Including  
-phantomjs.exe 无界面浏览器驱动 Browser driver without interface  
 PingCode.py 控制台运行代码 Console running code  
 PingWin.py 封装类和窗口代码 Encapsulating class and window code  
+
+打包或下载：Package or download  
 PingWin.exe 打包exe EXE file  
 scan.ico 软件图标 Software icon  
+*phantomjs.exe 无界面浏览器驱动 Browser driver without interface  
+下载地址：https://phantomjs.org/download.html
   
 基本原理：principle  
 本程序是利用了Windows下的Python编写的，运用了Python的扩展包，如：tkinter,requests,scapy,random,dns,selenium.主程序有4个功能，并将程序界面封装成类可供拓展和修改.  

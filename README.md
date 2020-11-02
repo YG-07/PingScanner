@@ -12,7 +12,8 @@ PingWin.py 封装类和窗口代码 Encapsulating class and window code
 打包或下载：Package or download  
 PingWin.exe 打包exe EXE file  
 scan.ico 软件图标 Software icon  
-*phantomjs.exe 无界面浏览器驱动 Browser driver without interface  
+下载地址：https://www.easyicon.net/language.en/iconsearch/%E7%A7%91%E6%8A%80%E6%84%9F%E9%9B%B7%E8%BE%BE%E6%89%AB%E6%8F%8F/  
+phantomjs.exe 无界面浏览器驱动 Browser driver without interface  
 下载地址：https://phantomjs.org/download.html
   
 基本原理：principle  
